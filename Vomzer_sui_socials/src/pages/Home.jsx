@@ -12,7 +12,7 @@ const Home = () => {
       <div className='md:w-[45%] w-full'>
         <Feeds />
       </div>
-      <div className='md:w-[25%] w-full'>
+      <div className='md:w-[27%] w-full'>
         <Sui />
       </div>
     </div>
